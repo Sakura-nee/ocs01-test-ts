@@ -1,6 +1,9 @@
 {
   "dependencies": {
-    "axios": "^1.11.0"
+    "@noble/ed25519": "^3.0.0",
+    "@noble/hashes": "^2.0.0",
+    "axios": "^1.11.0",
+    "ora": "^8.2.0"
   },
   "name": "ocs01-test",
   "module": "src/main.ts",
